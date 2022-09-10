@@ -1,0 +1,15 @@
+{
+  "name": "MaxBot by TY CORP",
+  "description": "Simple Whatsapp bot for fun",
+  "repository": "https://github.com/triyatnaa29",
+  "logo": "http://www.tystudiodev.my.id/assets/img/TY.png",
+  "keywords": ["bot", "whatsapp-bot", "bot-wa"],
+  "env": {
+    "HEROKU_APP_NAME": {
+      "required": true
+    },
+    "HEROKU_PARENT_APP_NAME": {
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+    "stats": {
+        "msgSent": 179,
+        "msgRecv": 700,
+        "filesize": 1,
+        "autodownload": 1,
+        "sticker": 2,
+        "cmd": 38
+    },
+    "groups": {
+        "123-456@g.us": {
+            "id": "123-456@g.us",
+            "groupName": "jirolu",
+            "antilink": false,
+            "mute": false
+        },
+        "6289612131266-1519911398@g.us": {
+            "id": "6289612131266-1519911398@g.us",
+            "groupName": "😋🏍STMJ😜🏍",
+            "antilink": false,
+            "mute": false,
+            "welcome": {
+                "status": true,
+                "msg": "Welcome @user in group {title}"
+            },
+            "leave": {
+                "status": true,
+                "msg": "Good bye @user"
+            }
+        },
+        "120363044612426819@g.us": {
+            "id": "120363044612426819@g.us",
+            "groupName": "Tugas digital campaign",
+            "antilink": false,
+            "mute": false,
+            "welcome": {
+                "status": true,
+                "msg": "Welcome @user in group {title}"
+            },
+            "leave": {
+                "status": true,
+                "msg": "Good bye @user"
+            }
+        }
+    },
+    "afk": [
+        {
+            "jid": "123@c.us",
+            "groupId": "123-456@g.us",
+            "groupName": "jirolu",
+            "timestamp": 1661422703487,
+            "reason": "ngising"
+        }
+    ],
+    "config": {
+        "session_id": "",
+        "removeBG": "",
+        "musixMatch": ""
+    }
+}
